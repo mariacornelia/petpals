@@ -1,0 +1,1249 @@
+.herro-banner-child {
+    position: absolute;
+    top: 268px;
+    left: 699.22px;
+    border-radius: 99px;
+    background-color: #ed9455;
+    width: 635px;
+    height: 635px;
+    transform:  rotate(9.3deg);
+    transform-origin: 0 0;
+}
+.herro-banner-item {
+    position: absolute;
+    top: 180px;
+    left: 865.67px;
+    border-radius: 99px;
+    background-color: #f7dba7;
+    width: 635px;
+    height: 635px;
+    transform:  rotate(25.2deg);
+    transform-origin: 0 0;
+}
+.herro-banner-inner {
+    position: absolute;
+    top: 564px;
+    left: 438.33px;
+    border-radius: 99px;
+    background-color: #f7dba7;
+    width: 635px;
+    height: 635px;
+    transform:  rotate(56.5deg);
+    transform-origin: 0 0;
+    opacity: 0.4;
+}
+.rectangle-div {
+    position: absolute;
+    top: 163px;
+    left: 140.6px;
+    border-radius: 20px;
+    background-color: #f7dba7;
+    width: 67.1px;
+    height: 67.1px;
+    transform:  rotate(25.2deg);
+    transform-origin: 0 0;
+}
+.herro-banner-child1 {
+    position: absolute;
+    top: 148px;
+    left: 762.19px;
+    border-radius: 4px;
+    background-color: #f7dba7;
+    width: 14.6px;
+    height: 14.6px;
+    transform:  rotate(20.8deg);
+    transform-origin: 0 0;
+}
+.herro-banner-child2 {
+    position: absolute;
+    top: 150.68px;
+    left: 728px;
+    border-radius: 9px;
+    background-color: #f7dba7;
+    width: 27.5px;
+    height: 27.5px;
+    transform:  rotate(-22.9deg);
+    transform-origin: 0 0;
+}
+.herro-banner-child3 {
+    position: absolute;
+    top: 223.64px;
+    left: 727px;
+    border-radius: 6px;
+    background-color: #ed9455;
+    width: 21.5px;
+    height: 21.5px;
+    transform:  rotate(-43deg);
+    transform-origin: 0 0;
+}
+.close-up-veterinarian-taking-c-icon {
+    position: absolute;
+    top: 121px;
+    left: 757px;
+    width: 587.8px;
+    height: 600px;
+    object-fit: cover;
+}
+.hewan-sehat-hati {
+    position: absolute;
+    top: 180px;
+    left: 130px;
+    font-size: 48px;
+    line-height: 68px;
+    text-transform: capitalize;
+}
+.temukan-perawatan-terbaik {
+    position: absolute;
+    top: 252px;
+    left: 130px;
+    font-size: 44px;
+    line-height: 60px;
+    text-transform: capitalize;
+}
+.bersama-sama-kita-berkomitmen {
+    position: absolute;
+    top: 336px;
+    left: 130px;
+    line-height: 24px;
+    font-family: Poppins;
+    color: #948979;
+    display: inline-block;
+    width: 480px;
+}
+.click-here {
+    position: relative;
+    line-height: 24px;
+}
+.button-l {
+    position: absolute;
+    top: 442px;
+    left: 130px;
+    border-radius: 57px;
+    background-color: #ed9455;
+    width: 163px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 28px 10px;
+    box-sizing: border-box;
+    color: #fdfdfd;
+    font-family: Poppins;
+}
+.herro-banner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 0px 40px 40px;
+    background-color: #fff;
+    width: 1440px;
+    height: 721px;
+    overflow: hidden;
+    color: #262626;
+    font-family: 'Alfa Slab One';
+}
+.pastikan-hewan-peliharaan {
+    margin-block-start: 0;
+    margin-block-end: 2px;
+}
+.konsultasikan-dengan-dokter {
+    margin: 0;
+}
+.pastikan-hewan-peliharaan-container {
+    position: absolute;
+    top: 63px;
+    left: 0px;
+    letter-spacing: 0.05em;
+    line-height: 150%;
+    display: inline-block;
+    width: 579.6px;
+}
+.vaksinasi-dan-imunisasi {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 34px;
+    letter-spacing: 0.05em;
+    font-family: Pangolin;
+    color: #000;
+    display: inline-block;
+    width: 554.6px;
+    height: 321px;
+}
+.btn-explore-icon {
+    position: absolute;
+    height: 3.58%;
+    width: 1.1%;
+    top: 64.37%;
+    right: 70.16%;
+    bottom: 32.05%;
+    left: 28.73%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.right-text {
+    position: absolute;
+    top: 54.49px;
+    left: 0px;
+    width: 579.6px;
+    height: 321px;
+}
+.paw-icon {
+    position: absolute;
+    height: 23.41%;
+    width: 16.74%;
+    top: 0%;
+    right: 0.01%;
+    bottom: 76.59%;
+    left: 83.25%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.about-section {
+    position: absolute;
+    top: 1291.51px;
+    left: 713px;
+    width: 603.3px;
+    height: 375.5px;
+}
+.detail-section-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1555px;
+    height: 538px;
+}
+.hewan-peliharaan-tidak-container {
+    position: absolute;
+    top: 239px;
+    left: 238px;
+    letter-spacing: 0.05em;
+    line-height: 137.9%;
+    display: inline-block;
+    width: 533px;
+}
+.manfaat-mempelihara-hewan {
+    position: absolute;
+    top: 74px;
+    left: 238px;
+    font-size: 34px;
+    letter-spacing: 0.05em;
+    font-family: Pangolin;
+    color: #000;
+    display: inline-block;
+    width: 508px;
+    height: 326px;
+}
+.detail-section-item {
+    position: absolute;
+    top: 7px;
+    left: 774px;
+    width: 505px;
+    height: 674.1px;
+    object-fit: contain;
+}
+.paw-icon1 {
+    position: absolute;
+    height: 10.79%;
+    width: 4.96%;
+    top: 3.67%;
+    right: 43.27%;
+    bottom: 85.54%;
+    left: 51.77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.group-icon {
+    position: absolute;
+    height: 8.69%;
+    width: 4.59%;
+    top: 83.25%;
+    right: 18.31%;
+    bottom: 8.06%;
+    left: 77.11%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.group-icon1 {
+    position: absolute;
+    height: 7.94%;
+    width: 4.95%;
+    top: 10.35%;
+    right: 15.57%;
+    bottom: 81.71%;
+    left: 79.49%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.detail-section-inner {
+    position: absolute;
+    height: 9.37%;
+    width: 4.31%;
+    top: 44.93%;
+    right: 43.92%;
+    bottom: 45.71%;
+    left: 51.77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.detail-section {
+    position: absolute;
+    top: 2526px;
+    left: -85px;
+    width: 1555px;
+    height: 681.1px;
+}
+.testimonial-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1555px;
+    height: 611.6px;
+}
+.btn-explore-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #ed9455;
+    width: 192.7px;
+    height: 63.1px;
+}
+.tampilkan-lainnya {
+    position: absolute;
+    top: 19.46px;
+    left: 13px;
+}
+.arrow-chevron-right-md {
+    position: absolute;
+    height: 22.35%;
+    width: 4.67%;
+    top: 40.35%;
+    right: 6.59%;
+    bottom: 37.3%;
+    left: 88.74%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.btn-explore {
+    position: absolute;
+    top: 644.54px;
+    left: 645px;
+    width: 192.7px;
+    height: 63.1px;
+    font-size: 16px;
+}
+.ingin-memelihara-hewan {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 24px;
+}
+.adopsi-hewan-sekarang {
+    position: absolute;
+    top: 26px;
+    left: 0px;
+    font-size: 24px;
+    line-height: 36px;
+    text-transform: capitalize;
+    font-weight: 800;
+    color: #ed9455;
+}
+.service-heading {
+    position: absolute;
+    top: 39px;
+    left: 167px;
+    width: 473px;
+    height: 62px;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+}
+.card-one-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 33px 33px 0px 0px;
+    width: 360px;
+    height: 269.8px;
+    object-fit: cover;
+}
+.card-one-item {
+    position: absolute;
+    top: 269.81px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 360px;
+    height: 142.8px;
+}
+.lihat-detail {
+    width: 80px;
+    position: absolute;
+    margin: 0 !important;
+    top: 5px;
+    left: 84px;
+    line-height: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    z-index: 0;
+}
+.lihat-detail-wrapper {
+    position: absolute;
+    top: 371.81px;
+    left: 61px;
+    border-radius: 8px;
+    background-color: #ed9455;
+    width: 238px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 10px 4px;
+    box-sizing: border-box;
+}
+.kucing-anggora {
+    align-self: stretch;
+    position: relative;
+    line-height: 24px;
+    font-weight: 900;
+    color: #ed9455;
+}
+.nama-belum-ada {
+    width: 248px;
+    position: relative;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 900;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 24px;
+    flex-shrink: 0;
+}
+.kelamin {
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+}
+.kelamin-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.frame-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+    text-align: left;
+    font-size: 14px;
+}
+.kucing-anggora-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.card-one-inner {
+    position: absolute;
+    top: 278.81px;
+    left: 42px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 8px 20px;
+    font-size: 20px;
+    color: #667479;
+}
+.card-one {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 412.6px;
+}
+.card-one-wrapper {
+    position: absolute;
+    top: 146.19px;
+    left: 156px;
+    filter: drop-shadow(0px 4px 28px rgba(0, 0, 0, 0.1));
+    width: 360px;
+    height: 412.6px;
+}
+.lihat-detail-container {
+    position: absolute;
+    top: 371.34px;
+    left: 61px;
+    border-radius: 8px;
+    background-color: #ed9455;
+    width: 238px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 10px 4px;
+    box-sizing: border-box;
+}
+.kelamin1 {
+    width: 68px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.betina1 {
+    width: 49px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.usia1 {
+    width: 37px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.bulan1 {
+    width: 64px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.anjing-golden-retriever-parent {
+    position: absolute;
+    top: 286.34px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+    font-size: 20px;
+    color: #667479;
+}
+.card-two-wrapper {
+    position: absolute;
+    top: 146px;
+    left: 574px;
+    filter: drop-shadow(0px 4px 28px rgba(0, 0, 0, 0.1));
+    width: 360px;
+    height: 412.6px;
+}
+.card-three-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 269.8px;
+    object-fit: cover;
+}
+.card-three-item {
+    position: absolute;
+    top: 269.81px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 360px;
+    height: 138.6px;
+}
+.jantan {
+    width: 53px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.kucing-kampung-parent {
+    position: absolute;
+    top: 286.81px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+    font-size: 20px;
+    color: #667479;
+}
+.card-three {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 408.4px;
+}
+.card-three-wrapper {
+    position: absolute;
+    top: 149.19px;
+    left: 991px;
+    filter: drop-shadow(0px 4px 28px rgba(0, 0, 0, 0.1));
+    width: 360px;
+    height: 408.4px;
+}
+.testimonial {
+    position: absolute;
+    top: 3392px;
+    left: -37px;
+    width: 1555px;
+    height: 707.6px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+}
+.lokasi-dokter-hewan {
+    position: absolute;
+    top: 71.54px;
+    left: 0px;
+    line-height: 114.5%;
+    font-weight: 600;
+}
+.title-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+}
+.title {
+    width: 220px;
+    position: relative;
+    height: 94.5px;
+}
+.kemudahan-untuk-menemukan {
+    width: 225.3px;
+    position: relative;
+    font-size: 16px;
+    line-height: 142%;
+    font-family: Lato;
+    color: #545454;
+    display: inline-block;
+    height: 72.6px;
+    flex-shrink: 0;
+}
+.read-more {
+    position: relative;
+    line-height: 160%;
+    font-weight: 500;
+}
+.icon {
+    width: 16.8px;
+    position: relative;
+    height: 16.8px;
+}
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+    color: #363636;
+    font-family: Inter;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 11px;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f1f1f1;
+    width: 285.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 45px 30px;
+    box-sizing: border-box;
+}
+.div1 {
+    width: 285.3px;
+    position: relative;
+    height: 305.1px;
+}
+.konsultasi-dokter {
+    position: absolute;
+    top: 71.32px;
+    left: 0px;
+    line-height: 114.5%;
+    font-weight: 600;
+}
+.title1 {
+    width: 185px;
+    position: relative;
+    height: 94.3px;
+}
+.div3 {
+    width: 285.3px;
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 45px 30px;
+    box-sizing: border-box;
+}
+.title2 {
+    width: 150px;
+    position: relative;
+    height: 94.3px;
+}
+.temukan-pengadopsi {
+    position: absolute;
+    top: 71.32px;
+    left: 0.27px;
+    line-height: 114.5%;
+    font-weight: 600;
+}
+.title3 {
+    width: 225.3px;
+    position: relative;
+    height: 94.3px;
+}
+.div {
+    position: absolute;
+    top: 854px;
+    left: 120px;
+    width: 1199.8px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 20px;
+    color: #1c1c1c;
+    font-family: Montserrat;
+}
+.doctor-makes-injection-ill-cat-icon {
+    position: absolute;
+    top: 1337px;
+    left: 120px;
+    width: 539px;
+    height: 334px;
+    object-fit: cover;
+}
+.click-here1 {
+    position: relative;
+    line-height: 20px;
+}
+.button-m {
+    position: absolute;
+    top: 1822px;
+    left: 1142px;
+    border-radius: 5px;
+    background-color: #de9455;
+    border: 1.5px solid #de9455;
+    box-sizing: border-box;
+    width: 179px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 28px;
+    gap: 1px;
+    font-size: 14px;
+    color: #fff;
+}
+.ingin-berkonsultasi-dengan {
+    position: absolute;
+    top: 1804px;
+    left: 120px;
+    line-height: 24px;
+    color: #000;
+}
+.rekomendasi-dokter-hewan {
+    position: absolute;
+    top: 1830px;
+    left: 120px;
+    font-size: 24px;
+    line-height: 36px;
+    text-transform: capitalize;
+    font-weight: 800;
+    color: #ed9455;
+}
+.product-card-child {
+    width: 264px;
+    position: relative;
+    border-radius: 10px;
+    height: 264px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.drh-anindita-ika {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    line-height: 39.2px;
+    color: #00171f;
+}
+.spesialis {
+    width: 61px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 900;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.hewan-domestik-dan {
+    width: 171px;
+    position: relative;
+    line-height: 18px;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.frame-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.tahun {
+    position: relative;
+    line-height: 18px;
+}
+.lihat-detail-wrapper1 {
+    align-self: stretch;
+    border-radius: 8px;
+    background-color: #ed9455;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 10px 4px;
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+}
+.frame-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 8px 20px;
+    gap: 10px;
+}
+.product-card {
+    box-shadow: 0px 4px 28px -2px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    background-color: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 8px 0px;
+    gap: 8px;
+}
+.product-card-parent {
+    position: absolute;
+    top: 1939px;
+    left: 130px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 12px;
+    color: #667479;
+}
+.all-rights-reserved {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 82px);
+    line-height: 10px;
+}
+.all-rights-reserved-wrapper {
+    position: absolute;
+    top: 44px;
+    left: calc(50% - 195px);
+    width: 164px;
+    height: 10px;
+}
+.frame-child {
+    width: 174px;
+    position: relative;
+    height: 82.9px;
+}
+.vector-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.copy {
+    position: absolute;
+    top: 313px;
+    left: calc(50% - 795px);
+    width: 1740px;
+    height: 82.9px;
+    text-align: center;
+    font-size: 13px;
+}
+.apakah-kamu-dokter {
+    position: relative;
+    line-height: 13px;
+    font-weight: 500;
+}
+.frame-child7 {
+    width: 33px;
+    position: relative;
+    height: 7px;
+    object-fit: cover;
+}
+.apakah-kamu-dokter-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.daftar {
+    width: 91px;
+    position: relative;
+    line-height: 18.4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.label {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.button4 {
+    width: 152px;
+    border-radius: 4px;
+    background-color: #ed9455;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 12px;
+    box-sizing: border-box;
+}
+.address {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.address-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    color: #fff;
+}
+.daftar-dokter {
+    position: absolute;
+    top: 78px;
+    left: 1129px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+}
+.mask-group-icon {
+    width: 25px;
+    position: relative;
+    height: 25px;
+    object-fit: cover;
+}
+.kota-kediri-jawa {
+    position: relative;
+    line-height: 13px;
+    text-transform: capitalize;
+}
+.email {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.address-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.contact {
+    position: absolute;
+    top: 78px;
+    left: 765px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+}
+.tautan {
+    position: relative;
+    line-height: 13px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.frame-child9 {
+    width: 38px;
+    position: relative;
+    height: 7px;
+    object-fit: cover;
+}
+.mask-group-icon3 {
+    width: 13px;
+    position: relative;
+    height: 13px;
+    object-fit: cover;
+}
+.mask-group-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.quick-link {
+    position: absolute;
+    top: 78px;
+    left: 530px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.logo-4-icon {
+    width: 70px;
+    position: relative;
+    height: 83.4px;
+    object-fit: cover;
+}
+.cintai-rawat-adopsi {
+    width: 306px;
+    position: relative;
+    line-height: 30px;
+    font-weight: 300;
+    display: inline-block;
+}
+.logo-4-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.face-book-icon {
+    width: 35px;
+    position: relative;
+    height: 35px;
+    object-fit: cover;
+}
+.face-book-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.logo {
+    position: absolute;
+    top: 50.15px;
+    left: 141px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.petpals-care-all {
+    position: absolute;
+    height: 5.04%;
+    width: 16.81%;
+    top: 92.55%;
+    left: 41.67%;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+    opacity: 0.65;
+}
+.footer {
+    position: absolute;
+    height: 8.16%;
+    width: 100%;
+    top: 91.84%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fcf1dc;
+    overflow: hidden;
+    color: #000;
+}
+.logo-8-icon {
+    position: absolute;
+    top: 17px;
+    left: 74px;
+    width: 76px;
+    height: 91px;
+    object-fit: cover;
+}
+.usearch-icon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.cari {
+    position: relative;
+    line-height: 20px;
+    font-weight: 900;
+}
+.usearch-parent {
+    width: 310px;
+    border-radius: 46px;
+    background-color: #f4f4f4;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 20px 12px 16px;
+    box-sizing: border-box;
+    gap: 12px;
+    z-index: 0;
+}
+.button-l1 {
+    width: 157px;
+    margin: 0 !important;
+    position: absolute;
+    top: 0px;
+    left: 380px;
+    border-radius: 57px;
+    background-color: #ed9455;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 28px 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    z-index: 1;
+    font-size: 16px;
+    color: #fdfdfd;
+}
+.frame-parent5 {
+    position: absolute;
+    top: 37px;
+    left: 869px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 70px;
+}
+.cari-dokter1 {
+    position: relative;
+    line-height: 24px;
+    cursor: pointer;
+}
+.beranda-parent {
+    position: absolute;
+    top: 48px;
+    left: 216px;
+    width: 605px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 60px;
+    font-size: 20px;
+    color: #1c1c1c;
+}
+.beforelogin {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(247, 219, 167, 0.6);
+    border: 1px solid rgba(151, 148, 148, 0.47);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 125px;
+    overflow: hidden;
+    font-size: 14px;
+    color: #99a2a5;
+}
+.homepage-before-login {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 4621px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #4e4c46;
+    font-family: Poppins;
+}
+

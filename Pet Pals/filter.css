@@ -1,0 +1,95 @@
+.filter3 {
+    position: absolute;
+    top: 67px;
+    left: 127px;
+    line-height: 36px;
+    font-weight: 900;
+    display: flex;
+    align-items: flex-end;
+    width: 66px;
+    height: 45px;
+}
+.jenis-kelamin {
+    position: relative;
+    line-height: 24px;
+    font-weight: 900;
+}
+.checkbox {
+    width: 16px;
+    position: relative;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #ccd1d2;
+    box-sizing: border-box;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.checkbox-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.frame-parent18 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 14px;
+}
+.jenis-kelamin-parent {
+    width: 280px;
+    border-bottom: 1px solid #ebeeef;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 0px 16px;
+    gap: 10px;
+}
+.anjing {
+    position: relative;
+    line-height: 20px;
+    font-weight: 900;
+}
+.kategori-hewan-parent {
+    align-self: stretch;
+    border-bottom: 1px solid #ebeeef;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 0px;
+    gap: 10px;
+}
+.frame-parent17 {
+    position: absolute;
+    top: 124px;
+    left: 109px;
+    width: 135px;
+    height: 367px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #00171f;
+}
+.filter2 {
+    width: 354px;
+    position: relative;
+    background-color: #fff;
+    height: 480px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: left;
+    font-size: 24px;
+    color: #ed9455;
+    font-family: Poppins;
+}
+

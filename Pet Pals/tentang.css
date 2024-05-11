@@ -1,0 +1,437 @@
+.about-us-section-child {
+    position: absolute;
+    top: 420px;
+    left: 721px;
+    border-radius: 10px;
+    width: 450px;
+    height: 294.4px;
+    object-fit: cover;
+}
+.about-us-section-item {
+    position: absolute;
+    top: 0px;
+    left: 801px;
+    border-radius: 10px;
+    width: 289px;
+    height: 344px;
+    object-fit: cover;
+}
+.tentang-kami {
+    position: relative;
+    line-height: 100%;
+    text-align: center;
+}
+.petpals-care-adalah {
+    width: 572px;
+    position: relative;
+    font-size: 40px;
+    line-height: 58px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #141414;
+    display: inline-block;
+}
+.di-petpals-care {
+    margin: 0;
+}
+.di-petpals-care-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 30px;
+    display: inline-block;
+    width: 572px;
+}
+.section-content {
+    width: 572px;
+    position: relative;
+    height: 300px;
+    font-size: 16px;
+    color: #000;
+    font-family: Poppins;
+}
+.section-data {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.about-us-section {
+    position: absolute;
+    top: 229px;
+    left: 121px;
+    width: 1171px;
+    height: 714.4px;
+    font-size: 64px;
+    color: #ed9455;
+    font-family: Inter;
+}
+.logo-8-icon {
+    position: absolute;
+    top: 17px;
+    left: 74px;
+    width: 76px;
+    height: 91px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.usearch-icon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.cari {
+    position: relative;
+    line-height: 20px;
+    font-weight: 900;
+}
+.usearch-parent {
+    width: 310px;
+    border-radius: 46px;
+    background-color: #f4f4f4;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 20px 12px 16px;
+    box-sizing: border-box;
+    gap: 12px;
+}
+.mingcuteuser-4-fill-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+    overflow: hidden;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+.frame-parent {
+    position: absolute;
+    top: 37px;
+    left: 869px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 120px;
+}
+.beranda {
+    position: relative;
+    line-height: 24px;
+    cursor: pointer;
+}
+.beranda-parent {
+    position: absolute;
+    top: 48px;
+    left: 216px;
+    width: 605px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 60px;
+    font-size: 20px;
+    color: #1c1c1c;
+}
+.nav-afterlogin {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    background-color: rgba(247, 219, 167, 0.6);
+    border: 1px solid rgba(151, 148, 148, 0.47);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 125px;
+    overflow: hidden;
+    font-size: 14px;
+    color: #99a2a5;
+}
+.tim-kami-terdiri-container {
+    position: absolute;
+    top: 1022px;
+    left: 720px;
+    line-height: 30px;
+    display: inline-block;
+    width: 572px;
+}
+.tentang-kami-1-child {
+    position: absolute;
+    top: 987px;
+    left: 121px;
+    width: 512px;
+    height: 370px;
+    object-fit: cover;
+}
+.all-rights-reserved {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 82px);
+    line-height: 10px;
+}
+.all-rights-reserved-wrapper {
+    position: absolute;
+    top: 44px;
+    left: calc(50% - 195px);
+    width: 164px;
+    height: 10px;
+}
+.frame-child {
+    width: 174px;
+    position: relative;
+    height: 82.9px;
+}
+.vector-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.copy {
+    position: absolute;
+    top: 313px;
+    left: calc(50% - 795px);
+    width: 1740px;
+    height: 82.9px;
+    text-align: center;
+    font-size: 13px;
+}
+.apakah-kamu-dokter {
+    position: relative;
+    line-height: 13px;
+    font-weight: 500;
+}
+.group-icon {
+    width: 33px;
+    position: relative;
+    height: 7px;
+    object-fit: cover;
+}
+.apakah-kamu-dokter-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.daftar {
+    width: 91px;
+    position: relative;
+    line-height: 18.4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.label {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.button {
+    width: 152px;
+    border-radius: 4px;
+    background-color: #ed9455;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 12px;
+    box-sizing: border-box;
+}
+.address {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+.address-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    color: #fff;
+}
+.daftar-dokter {
+    position: absolute;
+    top: 78px;
+    left: 1129px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+}
+.mask-group-icon {
+    width: 25px;
+    position: relative;
+    height: 25px;
+    object-fit: cover;
+}
+.kota-kediri-jawa {
+    position: relative;
+    line-height: 13px;
+    text-transform: capitalize;
+}
+.petpalscaregmailcom {
+    position: relative;
+    line-height: 24px;
+}
+.email {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.address-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.contact {
+    position: absolute;
+    top: 78px;
+    left: 765px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+}
+.logo-4-icon {
+    width: 70px;
+    position: relative;
+    height: 83.4px;
+    object-fit: cover;
+}
+.cintai-rawat-adopsi {
+    width: 306px;
+    position: relative;
+    line-height: 30px;
+    font-weight: 300;
+    display: inline-block;
+}
+.logo-4-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.face-book-icon {
+    width: 35px;
+    position: relative;
+    height: 35px;
+    object-fit: cover;
+}
+.face-book-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.logo {
+    position: absolute;
+    top: 50px;
+    left: 141px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.petpals-care-all {
+    position: absolute;
+    height: 5.05%;
+    width: 16.81%;
+    top: 90.16%;
+    left: 41.67%;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+    opacity: 0.65;
+}
+.tautan {
+    position: relative;
+    line-height: 13px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.frame-child8 {
+    width: 38px;
+    position: relative;
+    height: 7px;
+    object-fit: cover;
+}
+.mask-group-icon3 {
+    width: 13px;
+    position: relative;
+    height: 13px;
+    object-fit: cover;
+}
+.mask-group-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.quick-link {
+    position: absolute;
+    top: 77.85px;
+    left: 530px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.footer {
+    position: absolute;
+    height: 20.51%;
+    width: 99.93%;
+    top: 79.51%;
+    right: 0.07%;
+    bottom: -0.02%;
+    left: 0%;
+    background-color: #fcf1dc;
+    overflow: hidden;
+}
+.tentang-kami-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1874px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Poppins;
+}
+
